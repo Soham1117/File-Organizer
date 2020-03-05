@@ -1,2 +1,1 @@
-Soham Patel
-24
+File Organiser - This is a java-based desktop application which accepts a path of a folder in your system. This application will categorize the files in that folder according to their extensions and then moves it to a New Folder named "extension_name Files". 
